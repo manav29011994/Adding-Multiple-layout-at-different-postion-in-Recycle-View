@@ -1,3 +1,3 @@
 # RecycleTest
 
-This Sample code for just for an idea about how to add multiple view/ layout in a recycle view at different position in recycle view
+The Sample code is just to provide an idea about how to add different view/ layout in a Recycle view at different View position in recycle view
